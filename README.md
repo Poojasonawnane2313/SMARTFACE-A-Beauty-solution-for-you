@@ -1,2 +1,2 @@
-# SMARTFACE-A-Beauty-solution-for-you
+# Online Beauty Product Store
 HTML, CSS, PHP, WordPress, MySQL. 
